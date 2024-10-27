@@ -1,0 +1,90 @@
+[
+    {
+        "answers": [
+            "Two different LANs can have different topologies like Token Ring and Ethernet.",
+            "Bridges are used to connect multiple LANs.",
+            "Bridges are mainly used to connect two LANs with the same topology.",
+            "Bridges are used to connect two different WANs."
+        ],
+        "correct_answer": "Two different LANs can have different topologies like Token Ring and Ethernet.",
+        "question": "What is a key characteristic of LANs connected by a bridge?",
+        "index": 0
+    },
+    {
+        "answers": [
+            "The MAC address of the sending device and the MAC address of the receiving device.",
+            "The MAC address of the bridge and the MAC address of the receiving device.",
+            "The MAC address of the sending device and the IP address of the receiving device.",
+            "The IP address of the sending device and the IP address of the receiving device."
+        ],
+        "correct_answer": "The MAC address of the sending device and the MAC address of the receiving device.",
+        "question": "When a packet is sent from M1 to M6, what information is essential for the bridge to decide whether to forward the packet? ",
+        "index": 1
+    },
+    {
+        "answers": [
+            "The bridge will check if M3 is on the same port as M1.",
+            "The bridge will drop the packet because M3 is not on the same port.",
+            "The bridge will check if M3 is connected to any port.",
+            "The bridge will forward the packet to M3 because they are on the same network segment."
+        ],
+        "correct_answer": "The bridge will drop the packet because M3 is not on the same port.",
+        "question": "If a device on port P1 sends a message to a device on the same port, what will the bridge do?",
+        "index": 2
+    },
+    {
+        "answers": [
+            "A static bridge uses MAC address filtering to prevent unnecessary traffic.",
+            "A static bridge can automatically learn MAC addresses and adapt to changes in the network.",
+            "A static bridge is a simpler technology than a repeater or hub.",
+            "A static bridge can only work with devices that have fixed MAC addresses."
+        ],
+        "correct_answer": "A static bridge uses MAC address filtering to prevent unnecessary traffic.",
+        "question": "Which statement accurately describes a static bridge's behavior in a network?",
+        "index": 3
+    },
+    {
+        "answers": [
+            "It will check the MAC address table for an entry matching the source and destination addresses.",
+            "It will send a broadcast packet to all connected devices.",
+            "It will drop the packet and send an error message.",
+            "It will consult the network administrator for instructions."
+        ],
+        "correct_answer": "It will send a broadcast packet to all connected devices.",
+        "question": "When a dynamic bridge receives a packet for the first time with an unknown destination address, what action does it take?",
+        "index": 4
+    },
+    {
+        "answers": [
+            "The bridge will always broadcast packets to all ports.",
+            "Dynamic routing is faster than static routing in all cases.",
+            "The bridge maintains a table of known connections, updating it based on received packets.",
+            "Dynamic routing requires network administrators to manually configure routes."
+        ],
+        "correct_answer": "The bridge maintains a table of known connections, updating it based on received packets.",
+        "question": "How does a bridge learn about network connections in a dynamic routing scenario?",
+        "index": 5
+    },
+    {
+        "answers": [
+            "They forward packets immediately without processing.",
+            "They use a store and forward strategy, storing packets before forwarding.",
+            "They use a specialized collision avoidance algorithm.",
+            "They operate on a separate network segment, preventing collisions."
+        ],
+        "correct_answer": "They use a store and forward strategy, storing packets before forwarding.",
+        "question": "How do bridges prevent collisions?",
+        "index": 6
+    },
+    {
+        "answers": [
+            "A spanning tree is a specific kind of network topology.",
+            "Spanning trees help ensure the packet never reaches its destination.",
+            "Spanning trees help to prevent data packets from getting stuck in loops.",
+            "Spanning trees are used in all types of networks, including the internet."
+        ],
+        "correct_answer": "Spanning trees help to prevent data packets from getting stuck in loops.",
+        "question": "What is the primary purpose of a spanning tree in a bridged network?",
+        "index": 7
+    }
+]

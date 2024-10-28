@@ -1,90 +1,101 @@
 [
     {
         "answers": [
-            "Two different LANs can have different topologies like Token Ring and Ethernet.",
-            "Bridges are used to connect multiple LANs.",
-            "Bridges are mainly used to connect two LANs with the same topology.",
-            "Bridges are used to connect two different WANs."
+            "The course is geared towards students with a strong foundation in high-school level mathematics.",
+            "The course requires a strong understanding of proof-based mathematics.",
+            "The course is designed for students who are already familiar with advanced mathematical concepts.",
+            "The course is open to students with a wide range of mathematical backgrounds."
         ],
-        "correct_answer": "Two different LANs can have different topologies like Token Ring and Ethernet.",
-        "question": "What is a key characteristic of LANs connected by a bridge?",
-        "index": 0
+        "correct_answer": "The course requires a strong understanding of proof-based mathematics.",
+        "question": "What is the main prerequisite for Math 55 at Harvard University?",
+        "timestamp": 83.64
     },
     {
         "answers": [
-            "The MAC address of the sending device and the MAC address of the receiving device.",
-            "The MAC address of the bridge and the MAC address of the receiving device.",
-            "The MAC address of the sending device and the IP address of the receiving device.",
-            "The IP address of the sending device and the IP address of the receiving device."
+            "It is a status symbol among math majors.",
+            "It is only for students with a strong math background.",
+            "It is a very difficult course.",
+            "It is a course only offered at Harvard."
         ],
-        "correct_answer": "The MAC address of the sending device and the MAC address of the receiving device.",
-        "question": "When a packet is sent from M1 to M6, what information is essential for the bridge to decide whether to forward the packet? ",
-        "index": 1
+        "correct_answer": "It is a very difficult course.",
+        "question": "According to the text, what is a common perception of Math 55 at Harvard?",
+        "timestamp": 159.519
     },
     {
         "answers": [
-            "The bridge will check if M3 is on the same port as M1.",
-            "The bridge will drop the packet because M3 is not on the same port.",
-            "The bridge will check if M3 is connected to any port.",
-            "The bridge will forward the packet to M3 because they are on the same network segment."
+            "Linear algebra, abstract algebra, representation theory, real analysis, complex analysis, and algebraic topology.",
+            "The official titles are \"Studies in Algebra and Group Theory\" for 55A and \"Studies in Real and Complex Analysis\" for 55B.",
+            "Math 55A and Math 55B have standardized curricula.",
+            "The class size is typically around 60 students, but the lecture hall can only accommodate 20-30 students."
         ],
-        "correct_answer": "The bridge will drop the packet because M3 is not on the same port.",
-        "question": "If a device on port P1 sends a message to a device on the same port, what will the bridge do?",
-        "index": 2
+        "correct_answer": "The official titles are \"Studies in Algebra and Group Theory\" for 55A and \"Studies in Real and Complex Analysis\" for 55B.",
+        "question": "What are the official titles of Math 55A and Math 55B?",
+        "timestamp": 229.959
     },
     {
         "answers": [
-            "A static bridge uses MAC address filtering to prevent unnecessary traffic.",
-            "A static bridge can automatically learn MAC addresses and adapt to changes in the network.",
-            "A static bridge is a simpler technology than a repeater or hub.",
-            "A static bridge can only work with devices that have fixed MAC addresses."
+            "The number of holes in a shape is a fundamental aspect of its topology.",
+            "The theorem applies only to shapes that can be deformed into one another.",
+            "The theorem describes how the loops and holes of two combined shapes relate to their individual components.",
+            "The theorem explains how to determine the number of holes in a combined shape by counting the holes in its individual parts."
         ],
-        "correct_answer": "A static bridge uses MAC address filtering to prevent unnecessary traffic.",
-        "question": "Which statement accurately describes a static bridge's behavior in a network?",
-        "index": 3
+        "correct_answer": "The theorem describes how the loops and holes of two combined shapes relate to their individual components.",
+        "question": "According to the text, what is the main idea behind the Cypher Von compon theorem in algebraic topology?",
+        "timestamp": 314.59999999999997
     },
     {
         "answers": [
-            "It will check the MAC address table for an entry matching the source and destination addresses.",
-            "It will send a broadcast packet to all connected devices.",
-            "It will drop the packet and send an error message.",
-            "It will consult the network administrator for instructions."
+            "The professor's enthusiasm for the topic made the complex material more accessible.",
+            "The use of category theory simplified the lecture, making it easier to understand.",
+            "The lecture focused on the relationship between different mathematical concepts.",
+            "The students were hesitant to ask questions due to the intellectual level of the course."
         ],
-        "correct_answer": "It will send a broadcast packet to all connected devices.",
-        "question": "When a dynamic bridge receives a packet for the first time with an unknown destination address, what action does it take?",
-        "index": 4
+        "correct_answer": "The professor's enthusiasm for the topic made the complex material more accessible.",
+        "question": "What was a key factor in making the complex concepts discussed in the lecture more engaging for the students?",
+        "timestamp": 409.479
     },
     {
         "answers": [
-            "The bridge will always broadcast packets to all ports.",
-            "Dynamic routing is faster than static routing in all cases.",
-            "The bridge maintains a table of known connections, updating it based on received packets.",
-            "Dynamic routing requires network administrators to manually configure routes."
+            "Students with a background in competition math are more likely to succeed.",
+            "Students with no prior experience in proof-based mathematics are at a disadvantage.",
+            "The course attracts students with different levels of mathematical experience.",
+            "Students who are not math majors are not able to succeed in the course."
         ],
-        "correct_answer": "The bridge maintains a table of known connections, updating it based on received packets.",
-        "question": "How does a bridge learn about network connections in a dynamic routing scenario?",
-        "index": 5
+        "correct_answer": "The course attracts students with different levels of mathematical experience.",
+        "question": "What is the main point being made about the students in the course?",
+        "timestamp": 496.40000000000003
     },
     {
         "answers": [
-            "They forward packets immediately without processing.",
-            "They use a store and forward strategy, storing packets before forwarding.",
-            "They use a specialized collision avoidance algorithm.",
-            "They operate on a separate network segment, preventing collisions."
+            "The course is too difficult.",
+            "The course is too time-consuming.",
+            "The grading is too strict.",
+            "The course is not collaborative enough."
         ],
-        "correct_answer": "They use a store and forward strategy, storing packets before forwarding.",
-        "question": "How do bridges prevent collisions?",
-        "index": 6
+        "correct_answer": "The course is too difficult.",
+        "question": "According to the speaker, what is the outdated rumor about Math 55 that is no longer true?",
+        "timestamp": 588.36
     },
     {
         "answers": [
-            "A spanning tree is a specific kind of network topology.",
-            "Spanning trees help ensure the packet never reaches its destination.",
-            "Spanning trees help to prevent data packets from getting stuck in loops.",
-            "Spanning trees are used in all types of networks, including the internet."
+            "The course was taught by different professors, making the difficulty vary greatly.",
+            "Students back then were not as mathematically prepared as students today.",
+            "The course was not designed to be the main introduction for math concentrators.",
+            "There was no standard syllabus, making the course inconsistent year to year."
         ],
-        "correct_answer": "Spanning trees help to prevent data packets from getting stuck in loops.",
-        "question": "What is the primary purpose of a spanning tree in a bridged network?",
-        "index": 7
+        "correct_answer": "There was no standard syllabus, making the course inconsistent year to year.",
+        "question": "Why were so many students dropping out of Math 55 in the 1970s?",
+        "timestamp": 679.959
+    },
+    {
+        "answers": [
+            "It is the easiest math course at Harvard",
+            "It is a very competitive and cutthroat environment",
+            "It is a challenging but rewarding course with a strong sense of community",
+            "It is a course that is only for students who are already very good at math"
+        ],
+        "correct_answer": "It is a challenging but rewarding course with a strong sense of community",
+        "question": "What is the main takeaway about Math 55 at Harvard based on the provided transcript?",
+        "timestamp": 771.199
     }
 ]

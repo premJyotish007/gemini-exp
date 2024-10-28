@@ -1,101 +1,113 @@
 [
     {
         "answers": [
-            "The course is geared towards students with a strong foundation in high-school level mathematics.",
-            "The course requires a strong understanding of proof-based mathematics.",
-            "The course is designed for students who are already familiar with advanced mathematical concepts.",
-            "The course is open to students with a wide range of mathematical backgrounds."
+            "It focuses on practical applications of mathematical concepts.",
+            "It covers a wide range of mathematical topics, including algebra, calculus, and topology.",
+            "It is a course specifically designed for students interested in pursuing a career in mathematics.",
+            "It is a highly challenging course that condenses four years of undergraduate mathematics into two semesters."
         ],
-        "correct_answer": "The course requires a strong understanding of proof-based mathematics.",
-        "question": "What is the main prerequisite for Math 55 at Harvard University?",
-        "timestamp": 83.64
+        "correct_answer": "It is a highly challenging course that condenses four years of undergraduate mathematics into two semesters.",
+        "question": "What is the primary characteristic of the 'Math 55' course at Harvard University, as described in the text?",
+        "timestamp": 72.6
     },
     {
         "answers": [
-            "It is a status symbol among math majors.",
-            "It is only for students with a strong math background.",
-            "It is a very difficult course.",
-            "It is a course only offered at Harvard."
+            "A status symbol for some math majors.",
+            "A requirement for all Harvard students.",
+            "A course only open to graduate students.",
+            "A popular elective for students of all majors."
         ],
-        "correct_answer": "It is a very difficult course.",
-        "question": "According to the text, what is a common perception of Math 55 at Harvard?",
-        "timestamp": 159.519
+        "correct_answer": "A status symbol for some math majors.",
+        "question": "According to the speaker, what is the social perception of taking Math 55 at Harvard?",
+        "timestamp": 142.72
     },
     {
         "answers": [
-            "Linear algebra, abstract algebra, representation theory, real analysis, complex analysis, and algebraic topology.",
-            "The official titles are \"Studies in Algebra and Group Theory\" for 55A and \"Studies in Real and Complex Analysis\" for 55B.",
-            "Math 55A and Math 55B have standardized curricula.",
-            "The class size is typically around 60 students, but the lecture hall can only accommodate 20-30 students."
+            "It was the first time he had taken a math class.",
+            "He was nervous about the professor's expectations.",
+            "He was unfamiliar with the proof-based format of the course.",
+            "He had no prior experience with proof-based mathematics.",
+            "He was unsure of how the classroom environment would be."
         ],
-        "correct_answer": "The official titles are \"Studies in Algebra and Group Theory\" for 55A and \"Studies in Real and Complex Analysis\" for 55B.",
-        "question": "What are the official titles of Math 55A and Math 55B?",
-        "timestamp": 229.959
+        "correct_answer": "He was unfamiliar with the proof-based format of the course.",
+        "question": "What was the main reason for Wan Jaya's initial anxiety about Math 55?",
+        "timestamp": 203.28
     },
     {
         "answers": [
-            "The number of holes in a shape is a fundamental aspect of its topology.",
-            "The theorem applies only to shapes that can be deformed into one another.",
-            "The theorem describes how the loops and holes of two combined shapes relate to their individual components.",
-            "The theorem explains how to determine the number of holes in a combined shape by counting the holes in its individual parts."
+            "The number of holes in a shape.",
+            "The number of dimensions in a space.",
+            "The number of points in a space.",
+            "The number of connected components in a space."
         ],
-        "correct_answer": "The theorem describes how the loops and holes of two combined shapes relate to their individual components.",
-        "question": "According to the text, what is the main idea behind the Cypher Von compon theorem in algebraic topology?",
-        "timestamp": 314.59999999999997
+        "correct_answer": "The number of holes in a shape.",
+        "question": "According to the text, what is a common focus of study within the field of algebraic topology?",
+        "timestamp": 277.68
     },
     {
         "answers": [
-            "The professor's enthusiasm for the topic made the complex material more accessible.",
-            "The use of category theory simplified the lecture, making it easier to understand.",
-            "The lecture focused on the relationship between different mathematical concepts.",
-            "The students were hesitant to ask questions due to the intellectual level of the course."
+            "The number of holes in a shape determines its topological equivalence.",
+            "Shapes with the same number of holes can be deformed into each other.",
+            "A shape's topology is defined by its overall form, not just the number of holes.",
+            "The number of holes in a shape is irrelevant to its topological classification."
         ],
-        "correct_answer": "The professor's enthusiasm for the topic made the complex material more accessible.",
-        "question": "What was a key factor in making the complex concepts discussed in the lecture more engaging for the students?",
-        "timestamp": 409.479
+        "correct_answer": "Shapes with the same number of holes can be deformed into each other.",
+        "question": "According to the speaker, what is the key factor in determining whether two shapes are topologically equivalent? ",
+        "timestamp": 360.919
     },
     {
         "answers": [
-            "Students with a background in competition math are more likely to succeed.",
-            "Students with no prior experience in proof-based mathematics are at a disadvantage.",
-            "The course attracts students with different levels of mathematical experience.",
-            "Students who are not math majors are not able to succeed in the course."
+            "A strong foundation in abstract mathematics.",
+            "Prior experience with competitive mathematics.",
+            "Exposure to advanced mathematical concepts in summer programs.",
+            "All of the above."
         ],
-        "correct_answer": "The course attracts students with different levels of mathematical experience.",
-        "question": "What is the main point being made about the students in the course?",
-        "timestamp": 496.40000000000003
+        "correct_answer": "All of the above.",
+        "question": "What factors contribute to the students' ability to grasp complex mathematical concepts in Professor Harris's class?",
+        "timestamp": 440.16
     },
     {
         "answers": [
-            "The course is too difficult.",
-            "The course is too time-consuming.",
-            "The grading is too strict.",
-            "The course is not collaborative enough."
+            "The course attracts students with diverse backgrounds and motivations.",
+            "All students have prior experience with competitive math.",
+            "Students without prior proof experience struggle to succeed in the course.",
+            "The course is only for students who have taken university courses in high school."
         ],
-        "correct_answer": "The course is too difficult.",
-        "question": "According to the speaker, what is the outdated rumor about Math 55 that is no longer true?",
-        "timestamp": 588.36
+        "correct_answer": "The course attracts students with diverse backgrounds and motivations.",
+        "question": "What is the main point the speaker makes about the students taking the course?",
+        "timestamp": 516.44
     },
     {
         "answers": [
-            "The course was taught by different professors, making the difficulty vary greatly.",
-            "Students back then were not as mathematically prepared as students today.",
-            "The course was not designed to be the main introduction for math concentrators.",
-            "There was no standard syllabus, making the course inconsistent year to year."
+            "The course's collaborative nature and lenient grading make it easier to succeed.",
+            "The course has become more challenging over time, leading to a higher dropout rate.",
+            "The course has evolved to meet the needs of students and the changing landscape of mathematical pedagogy.",
+            "The course's reputation for difficulty is outdated and no longer reflects the reality of the course."
         ],
-        "correct_answer": "There was no standard syllabus, making the course inconsistent year to year.",
-        "question": "Why were so many students dropping out of Math 55 in the 1970s?",
-        "timestamp": 679.959
+        "correct_answer": "The course's reputation for difficulty is outdated and no longer reflects the reality of the course.",
+        "question": "Why is the rumor that half of the students drop out of Math 55 incorrect?",
+        "timestamp": 603.64
     },
     {
         "answers": [
-            "It is the easiest math course at Harvard",
-            "It is a very competitive and cutthroat environment",
-            "It is a challenging but rewarding course with a strong sense of community",
-            "It is a course that is only for students who are already very good at math"
+            "The syllabus was standardized.",
+            "Students had more mathematical experience.",
+            "The course focused on a single topic each year.",
+            "The difficulty level varied drastically from year to year."
         ],
-        "correct_answer": "It is a challenging but rewarding course with a strong sense of community",
-        "question": "What is the main takeaway about Math 55 at Harvard based on the provided transcript?",
-        "timestamp": 771.199
+        "correct_answer": "The difficulty level varied drastically from year to year.",
+        "question": "According to the speaker, what was a major issue with Math 55A and 55B in the past that has been addressed today?",
+        "timestamp": 684.72
+    },
+    {
+        "answers": [
+            "It is a very challenging and competitive course.",
+            "It is an extremely competitive course with a cutthroat environment.",
+            "The course fosters a strong sense of community among students.",
+            "It is a course that attracts only the most brilliant minds in mathematics."
+        ],
+        "correct_answer": "The course fosters a strong sense of community among students.",
+        "question": "According to the speaker, what is a key characteristic of Math 55 at Harvard?",
+        "timestamp": 766.959
     }
 ]
